@@ -58,7 +58,7 @@
 
   If you have questions, feedback, or need help:
 
-  - 📧 **Email:** [support@snapnote.app](mailto:support@snapnote.app)
+  - 📧 **Email:** [support@snapnote.app](mailto:snapnoteapp001@gmail.com)
   - 🐛 **Report a Bug:** [Open an Issue](../../issues/new?template=bug_report.md)
   - 💡 **Feature Request:** [Open an Issue](../../issues/new?template=feature_request.md)
 
@@ -120,7 +120,7 @@
 
   如有问题、反馈或需要帮助：
 
-  - 📧 **邮箱：** [support@snapnote.app](mailto:support@snapnote.app)
+  - 📧 **邮箱：** [support@snapnote.app](mailto:snapnoteapp001@gmail.com)
   - 🐛 **报告问题：** [提交 Issue](../../issues/new?template=bug_report.md)
   - 💡 **功能建议：** [提交 Issue](../../issues/new?template=feature_request.md)
 
